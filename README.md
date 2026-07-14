@@ -12,14 +12,13 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
-### 🔗 Portfolio + LinkedIn badges
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://your-portfolio.com)
+### 🔗 LinkedIn badges
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-v-69b0b137)
 
 ### 🛠️ Tech Stack icons
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,github,vscode" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,nodejs,git,github,vscode" alt="My Skills" />
   </a>
 </p>
 
