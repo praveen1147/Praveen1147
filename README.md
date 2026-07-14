@@ -1,4 +1,9 @@
 ### 👋 Intro Section
+<p align="center">
+  <a href="https://your-portfolio.com">
+    <img src="https://raw.githubusercontent.com/your-username/your-username/main/path-to-your-banner.png" alt="Welcome to my profile!" width="100%">
+  </a>
+</p>
 # Hi, I'm [praveen]
 
 ### ⚡ Typing Animation Banner
