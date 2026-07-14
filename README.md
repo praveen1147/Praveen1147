@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=3a303a&text=Welcome%20to%20my%20Space&fontSize=35&height=200&animation=twinkle" alt="Banner" width="100%" />
+  <img src="[https://capsule-render.vercel.app/type=waving&color=3a303a&text=Welcome%20to%20my%20Space&fontSize=35&height=200&animation=twinkle](https://wallpaperaccess.com/full/197281.jpg)" alt="Banner" width="100%" />
 </p>
 
 ---
