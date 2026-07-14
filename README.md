@@ -1,7 +1,7 @@
 ### 👋 Intro Section
 <p align="center">
   <a href="https://your-portfolio.com">
-    <img src="https://raw.githubusercontent.com/your-username/your-username/main/path-to-your-banner.png" alt="Welcome to my profile!" width="100%">
+    <img src="[https://raw.githubusercontent.com/your-username/your-username/main/path-to-your-banner.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfSmxLLpdM5WPh524XlYVtPVDmdi6VrTb310Lsmtr1UQCkFpGkUwstd4wA&s=10)" alt="Welcome to my profile!" width="100%">
   </a>
 </p>
 # Hi, I'm [praveen]
