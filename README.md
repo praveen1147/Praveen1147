@@ -2,7 +2,7 @@
 # Hi, I'm [praveen]
 
 ### ⚡ Typing Animation Banner
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Agentic AIML;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Agentic +AIML;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" /></a>
 
 ### 📝 About Me Section
 - 🌱 I’m currently learning ...
