@@ -10,7 +10,7 @@
       <br />
       <!-- Typing SVG animation embedded perfectly over the background -->
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&center=true&vCenter=true&width=450&lines=Agentic+AIML;Open+Source+Contributor" alt="Typing SVG" />
       </a>
       <br />
     </td>
