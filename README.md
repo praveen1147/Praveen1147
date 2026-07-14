@@ -1,9 +1,21 @@
 ### 👋 Intro Section
-<p align="center">
-  <a href="https://your-portfolio.com">
-    <img src="[https://raw.githubusercontent.com/your-username/your-username/main/path-to-your-banner.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfSmxLLpdM5WPh524XlYVtPVDmdi6VrTb310Lsmtr1UQCkFpGkUwstd4wA&s=10)" alt="Welcome to my profile!" width="100%">
-  </a>
-</p>
+
+<table>
+  <tr align="center">
+    <!-- Using your provided image as the background card -->
+    <td background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfSmxLLpdM5WPh524XlYVtPVDmdi6VrTb310Lsmtr1UQCkFpGkUwstd4wA&s=10" width="1000px" height="260px">
+      <br />
+      <h1 align="center"><font color="#FFFFFF">Hi, I'm [Your Name] ✨</font></h1>
+      <p align="center"><font color="#D1D5DB">Building robust digital products & exploring the future of tech.</font></p>
+      <br />
+      <!-- Typing SVG animation embedded perfectly over the background -->
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+      </a>
+      <br />
+    </td>
+  </tr>
+</table>
 # Hi, I'm [praveen]
 
 ### ⚡ Typing Animation Banner
