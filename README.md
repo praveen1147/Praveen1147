@@ -35,7 +35,7 @@
 ### ⚙️ Tools section
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,postman,docker,linux,aws" alt="Tools Used" />
+    <img src="https://skillicons.dev/icons?i=figma,excel,linux,aws" alt="Tools Used" />
   </a>
 </p>
 
