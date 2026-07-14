@@ -1,10 +1,8 @@
 ### 👋 Intro Section
 
-<table>
-  <tr align="center">
-    <!-- Using your provided image as the background card -->
-    <td background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfSmxLLpdM5WPh524XlYVtPVDmdi6VrTb310Lsmtr1UQCkFpGkUwstd4wA&s=10" width="1000px" height="260px">
-      <br />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=soft&color=1a1a2e&text=Hi,%20I'm%20Praveen%20✨&fontSize=32&height=220&desc=Building%20robust%20digital%20products%20%26%20exploring%20the%20future%20of%20tech&descAlignY=65&descAlign=50&animation=fadeIn" alt="Header Banner" width="100%" />
+</p>
       <h1 align="center"><font color="#FFFFFF">Hi, I'm Praveen ✨</font></h1>
       <p align="center"><font color="#D1D5DB">Building robust digital products & exploring the future of tech.</font></p>
       <br />
