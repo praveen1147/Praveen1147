@@ -39,8 +39,3 @@
   </a>
 </p>
 
-### 📈 Contribution graph
-(Your GitHub contribution graph will automatically show below your profile README on your main page!)
-
-### 👁️ Visitor badge
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
